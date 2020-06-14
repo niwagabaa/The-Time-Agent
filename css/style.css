@@ -1,0 +1,29 @@
+body {
+     text-align: center;
+     margin-top: 200px;
+     background-color: chocolate;
+
+}
+
+h2 {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 80px;
+    font-weight: 400;
+}
+
+#timer {
+    font-family: "lato";
+    font-size: 100px;
+    font-weight: 300;
+}
+
+button{
+    width: 100px;
+    height: 35px;
+    background-color:orange ;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: azure;
+}
